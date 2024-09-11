@@ -15,7 +15,7 @@ Understand the importance of knowledge representation in Artificial Intelligence
 
 enables AI systems to reason, learn, and make decisions.
 
-**Machine Problem: Implementing a Logic-Based Model in Python**
+**Machine Problem No. 2: Implementing a Logic-Based Model in Python**
 <br/>
 <br/>
 Click to see:<br/>
