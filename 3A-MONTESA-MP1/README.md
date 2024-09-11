@@ -57,4 +57,64 @@ This structure shows how symptoms lead to a diagnosis and how the diagnosis can 
  The AI can analyze symptoms to diagnose diseases by following the relationships in the network.
 
  It can recommend treatments based on the diagnosis, improving the accuracy of medical decision-making.
+
+**Conclusion**
+
+1. Importance of Effective Knowledge Representation:
+
+Effective knowledge representation is crucial for AI systems to understand complex relationships in medical data.
+
+It enables accurate diagnosis and appropriate treatment recommendations by capturing detailed connections between symptoms and diseases.
+
+
+2.  Reflection on the Activity
+
+Building the semantic network taught me that having a clear and organized way to represent knowledge can really boost an AI system’s ability to solve problems, like diagnosing diseases and suggesting treatments.
+
+
+#Extension Activity Research
+
+**Chosen AI: Neuro-Symbolic System**
+
+Neural-symbolic AI is the field that seeks to integrate deep learning with symbolic, logic-based methods, as they have complementary strengths. These systems combine neural networks (which excel at pattern recognition) with symbolic reasoning (which deals with rules and logic).
+
+*How it works?*
+Neural-symbolic AI is the field that seeks to integrate deep learning with symbolic, logic-based methods, as they have complementary strengths. These systems combine neural networks (which excel at pattern recognition) with symbolic reasoning (which deals with rules and logic).
+
+*Potential Impact on Future AI Systems*
+
+°This hybrid approach can allow AI to not only recognize patterns but also explain its decisions in human-understandable terms.
+
+°It could lead to breakthroughs in areas like legal reasoning, where understanding and explaining decisions is crucial, and robotics, where AI systems need to combine perception (neural networks) with planning and reasoning (symbolic logic).
+   
+ 
+*Future Outlook*
+
+Neural-symbolic systems could be key to creating more general AI—systems that can reason like humans and apply knowledge in a variety of contexts.
+
+This form of representation may lead to AI systems that are both highly capable and interpretable, making AI more trusted and widely adopted in industries like healthcare, law, and finance.
+
+This emerging form brings together two powerful paradigms in AI and is seen as a way to bridge the gap between learning and reasoning in future AI systems.
+
+
+**References used**
+
+
+•https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence
+
+•https://www.fingent.com/blog/classifying-knowledge-representation-in-artificial-intelligence/
+
+•https://www.analytixlabs.co.in/blog/what-is-knowledge-representation-in-artificial-intelligence/
+
+•https://link.springer.com/chapter/10.1007/978-3-031-49299-0_9
+
+
+
+
+
+
+
+
+
+
  
