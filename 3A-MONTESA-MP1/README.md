@@ -1,6 +1,11 @@
 
 **Artificial Intelligence**
 
+
+
+Uploading Artificial Intelligence.mp4…
+
+
 Topic List:
 
 Understanding the Artificial Intelligence
@@ -17,6 +22,9 @@ Artificial intelligence (AI) is the simulation of human intelligence in machines
 *1. Logical Representation* <br/>
 It is the most basic form of representing knowledge to machines where a well-defined syntax with proper rules is used. This syntax needs to have no ambiguity in its meaning and must deal with prepositions. Thus, this logical form of presentation acts as communication rules and is why it can be best used when representing facts to a machine.
 
+![LR](https://github.com/user-attachments/assets/abe9f434-b7be-4954-8d77-3e6cf6a673b5)
+
+
 Logical Representation can be of two types:
 
 Propositional Logic: This type of logical representation is also known as propositional calculus or statement logic. This works in a Boolean, i.e., True or False method.
@@ -28,10 +36,15 @@ If you may or may not have noticed by now, this form of representation is the ba
 **2. Semantic Networks** <br/>
 A semantic network allows you to store knowledge in the form of a graphic network with nodes and arcs representing objects and their relationships. It could represent physical objects or concepts or even situations. A semantic network is generally used to represent data or reveal structure.
 
+![SN](https://github.com/user-attachments/assets/f6e99da2-04a8-47c6-9d9c-6b2c35f0c551)
+
+
 In this form, a graphical representation conveys how the objects are connected and are often used with a data network. The Semantic networks consist of node/block (the objects) and arcs/edges (the connections) that explain how the objects are connected. This form of representation is also known as an alternative to the FPOL form of representation. The relationships found in the Semantic Networks can be of two types – IS-A and instance (KIND-OF). This form of representation is more natural than logical. It is simple to understand however suffers from being computationally expensive and do not have the equivalent of quantifiers found in the logical representation.
 
 **3. Productive Rules**
 It is among the most common ways in which knowledge is represented in AI systems. In the simplest form, it can be understood as a simple if-else rule-based system and, in a way, is the combination of Propositional and FOPL logics. However, a more technical understanding of production rules can be understood by first understanding what this representation system is comprised of.
+
+![PR](https://github.com/user-attachments/assets/e6e7a69c-8fbf-4349-a4ea-631c74fd6421)
 
 
 This system comprises a set of production rules, rule applier, working memory, and a recognize act cycle. For every input, conditions are checked from the set of a production rule, and upon finding a suitable rule, an action is committed. This cycle of selecting the rule based on some conditions and consequently acting to solve the problem is known as a recognition and act cycle, which takes place for every input. 
