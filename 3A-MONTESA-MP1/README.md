@@ -1,6 +1,5 @@
 
-#Artificial Intelligence
-
+**Artificial Intelligence: Three Forms of Knowledge Representation**
 
 
 Uploading Artificial Intelligence.mp4…
