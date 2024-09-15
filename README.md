@@ -2,6 +2,15 @@
 
 These are the compilations of my laboratory activities in Advanced Presentation and Reasoning.
 
+# Exercises
+**Exercise 1: Logic-Based Representation**
+<br/>
+<br/>
+Click to see:<br/>
+[3A-MONTESA-EXER1](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-EXER1)
+
+# Machine Problems
+
 **Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.**
 <br/>
 <br/>
