@@ -22,7 +22,7 @@ Objective:
 
 Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it 
 
-enables AI systems to reason, learn, and make decisions.
+enables AI systems to reason, learn, and make decisions. <br/>
 
 **Machine Problem No. 2: Implementing a Logic-Based Model in Python**
 <br/>
