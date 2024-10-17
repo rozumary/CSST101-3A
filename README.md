@@ -56,7 +56,7 @@ Implement propositional and predicate logic in Python to understand the fundamen
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-HEALTH-MP4.ipynb)
+[3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-MP3.ipynb)
 <br/>
  <br/>
 Objective:
@@ -66,7 +66,7 @@ In this machine problem, you will apply probability theory, Bayesian inference, 
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-MP3.ipynb)
+[3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-HEALTH-MP4.ipynb)
 <br/>
  <br/>
 **Overview:**
