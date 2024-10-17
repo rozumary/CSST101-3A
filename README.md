@@ -9,21 +9,21 @@ These are the compilations of my laboratory activities in Advanced Presentation 
 Click to see:<br/>
 [3A-MONTESA-EXER1](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-EXER1)
 
-**Exercise 2: Introduction to Probability Theory in AI**
+**Exercise 2: Introduction to Probability Theory in AI**<br/>
 Objective: Understand the fundamentals of probability theory and its application in AI for decision-making under uncertainty.
 <br/>
 <br/>
 Click to see:<br/>
 [3A-MONTESA-EXER2](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-EXER2.ipynb)
 
-**Exercise 3: Probabilistic Reasoning in AI**
+**Exercise 3: Probabilistic Reasoning in AI**<br/>
 Instructions: Complete the following tasks by hand. Show the calculations.
 <br/>
 <br/>
 Click to see:<br/>
 [3A-MONTESA-EXER3](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-EXER3.ipynb)
 
-**Exercise 4: Bayesian Networks**
+**Exercise 4: Bayesian Networks**<br/>
 Implementation of Bayesian Networks in Google Colab
 <br/>
 <br/>
