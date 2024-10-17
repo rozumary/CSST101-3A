@@ -68,9 +68,10 @@ In this machine problem, you will apply probability theory, Bayesian inference, 
 Click to see:<br/>
 [3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-HEALTH-MP4.ipynb)
 <br/>
- <br/>
+<br/>
 **Overview:**
 In this task, you will develop a Bayesian Network model to diagnose a common health condition using Python and the pgmpy library. The goal is to understand how probabilistic reasoning can aid in medical diagnosis by creating a network that models relationships between symptoms, conditions, and diagnostic results.
+<br/>
 <br/>
 **Healthcare Scenario:**
 Consider a diagnostic model for a condition like heart disease. The Bayesian Network will include various risk factors and symptoms. Your network will use these factors to infer the likelihood of heart disease in a patient.
