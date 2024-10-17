@@ -14,21 +14,21 @@ Objective: Understand the fundamentals of probability theory and its application
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-EXER2](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-EXER2)
+[3A-MONTESA-EXER2](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-EXER2.ipynb)
 
 **Exercise 3: Probabilistic Reasoning in AI**
 Instructions: Complete the following tasks by hand. Show the calculations.
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-EXER3](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-EXER3)
+[3A-MONTESA-EXER3](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-EXER3.ipynb)
 
 **Exercise 4: Bayesian Networks**
 Implementation of Bayesian Networks in Google Colab
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-EXER4](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-EXER4)
+[3A-MONTESA-EXER4](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-EXER4.ipynb)
 
 # Machine Problems
 
@@ -56,7 +56,7 @@ Implement propositional and predicate logic in Python to understand the fundamen
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-MP3)
+[3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-HEALTH-MP4.ipynb)
 <br/>
  <br/>
 Objective:
@@ -66,7 +66,7 @@ In this machine problem, you will apply probability theory, Bayesian inference, 
 <br/>
 <br/>
 Click to see:<br/>
-[3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-MP4)
+[3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/blob/main/3A-MONTESA-MP3.ipynb)
 <br/>
  <br/>
 **Overview:**
