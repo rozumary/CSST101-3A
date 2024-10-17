@@ -41,9 +41,7 @@ Click to see:<br/>
 
 Objective:
 
-Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it 
-
-enables AI systems to reason, learn, and make decisions. <br/>
+Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it enables AI systems to reason, learn, and make decisions. <br/>
 
 **Machine Problem No. 2: Implementing a Logic-Based Model in Python**
 <br/>
@@ -53,9 +51,7 @@ Click to see:<br/>
 
 Objective:
 
-Implement propositional and predicate logic in Python to understand the fundamental 
-
-operations of logic-based representation and its application in AI.  <br/>
+Implement propositional and predicate logic in Python to understand the fundamental operations of logic-based representation and its application in AI.  <br/>
 
 **Machine Problem 3: Interactive Probability and Decision-Making in AI**
 <br/>
