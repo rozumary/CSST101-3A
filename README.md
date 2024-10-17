@@ -55,18 +55,16 @@ Objective:
 
 Implement propositional and predicate logic in Python to understand the fundamental 
 
-operations of logic-based representation and its application in AI.
+operations of logic-based representation and its application in AI.  <br/>
 
 **Machine Problem 3: Interactive Probability and Decision-Making in AI**
-
 <br/>
 <br/>
 Click to see:<br/>
 [3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-MP3)
 <br/>
 Objective:
-In this machine problem, you will apply probability theory, Bayesian inference, and decision-making under uncertainty to real-world scenarios using Python. The goal is to create an interactive Python program that allows you to simulate and visualize probabilistic reasoning in various AI contexts.
-
+In this machine problem, you will apply probability theory, Bayesian inference, and decision-making under uncertainty to real-world scenarios using Python. The goal is to create an interactive Python program that allows you to simulate and visualize probabilistic reasoning in various AI contexts. <br/>
 
 **Machine Problem 4: Bayesian Network for Healthcare Diagnosis**
 <br/>
