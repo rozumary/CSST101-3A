@@ -63,19 +63,19 @@ operations of logic-based representation and its application in AI.
 <br/>
 Click to see:<br/>
 [3A-MONTESA-MP3](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-MP3)
-
+<br/>
 Objective:
 In this machine problem, you will apply probability theory, Bayesian inference, and decision-making under uncertainty to real-world scenarios using Python. The goal is to create an interactive Python program that allows you to simulate and visualize probabilistic reasoning in various AI contexts.
 
-**Machine Problem 4: Bayesian Network for Healthcare Diagnosis**
 
+**Machine Problem 4: Bayesian Network for Healthcare Diagnosis**
 <br/>
 <br/>
 Click to see:<br/>
 [3A-MONTESA-MP4](https://github.com/rozumary/CSST101-3A/tree/main/3A-MONTESA-MP4)
-
+<br/>
 **Overview:**
 In this task, you will develop a Bayesian Network model to diagnose a common health condition using Python and the pgmpy library. The goal is to understand how probabilistic reasoning can aid in medical diagnosis by creating a network that models relationships between symptoms, conditions, and diagnostic results.
-
+<br/>
 **Healthcare Scenario:**
 Consider a diagnostic model for a condition like heart disease. The Bayesian Network will include various risk factors and symptoms. Your network will use these factors to infer the likelihood of heart disease in a patient.
